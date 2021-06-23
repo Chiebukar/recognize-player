@@ -1,6 +1,6 @@
 streamlit==0.82.0
 joblib==0.14.1
-json==2.0.9
+json
 py-opencv==4.5.2
 PIL==7.0.0
 numpy==1.18.1
