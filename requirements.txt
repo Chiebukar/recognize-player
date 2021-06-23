@@ -1,3 +1,4 @@
 opencv-python==3.4.10.37
 seaborn==0.8.1
 PyWavelets==0.5.2
+numpy==1.18.0
