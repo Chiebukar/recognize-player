@@ -1,5 +1,5 @@
 streamlit==0.82.0
-opencv-python==3.4.3.18
+opencv-python==3.4.10.37
 gunicorn==20.0.4
 joblib==0.16.0
 Js2Py==0.70
