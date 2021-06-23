@@ -1,5 +1,4 @@
 streamlit==0.82.0
-PyWavelets==0.5.2
 opencv-python==3.4.3.18
 gunicorn==20.0.4
 joblib==0.16.0
@@ -13,6 +12,7 @@ pyttsx3==2.87
 pytz==2019.3
 requests==2.23.0
 scikit-learn==0.23.2
+PyWavelets==0.5.2
 scipy==1.5.0
 sklearn==0.0
 threadpoolctl==2.1.0
