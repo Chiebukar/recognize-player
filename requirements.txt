@@ -1,6 +1,5 @@
 streamlit==0.82.0
 joblib==0.14.1
-PIL==7.0.0
 numpy==1.18.1
 sklearn==0.22.1
 PyWavelets==0.5.2
