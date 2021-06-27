@@ -4,7 +4,7 @@
 The recognize-player project is an end to end machine learning test project to facially recognize the following players: <br>
 Cristiano Ronaldo, Lionel Messi, Son Heung Min, Sadio Mane, Neymar Jr and Mohammed Salah.
 
-Images of the players were webscraped and  and processed by detecting and cropping out the faces using OpenCV<br>
+Images of the players were webscraped and processed by detecting and cropping out the faces using OpenCV<br>
 The data was cleaned by manually removing images with limited visible facial features.
 The facial features were transformed for training using Pywavelet.
 The processed image data was then trained  by hyperparameter tuning it with gridsearchCV to select best model and parameters for training the data.
