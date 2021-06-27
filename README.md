@@ -4,13 +4,13 @@
 The recognize-player project is an end to end machine learning test project to facially recognize the following players: <br>
 Cristiano Ronaldo, Lionel Messi, Son Heung Min, Sadio Mane, Neymar Jr and Mohammed Salah.
 
-Images of the players were webscraped and processed by detecting and cropping out the faces using OpenCV<br>
+Images of the players were webscraped and processed by detecting and cropping out their faces using OpenCV.<br>
 The data was cleaned by manually removing images with limited visible facial features.
 The facial features were transformed for training using Pywavelet.
-The processed image data was then trained  by hyperparameter tuning it with gridsearchCV to select best model and parameters for training the data.
+The processed image data was then trained  by hyperparameter tuning it with gridsearchCV to select the best model and parameters for training the data.
 The data was used to  train a Support Vector Machine (SVM) model and achieved a 77% score on the test set.
 
-The saved model and class attributes were then optimize to build a web app that recognizes the players in real time using streamlit and deployed on Heroku (https://recognize-player.herokuapp.com/)
+The saved model and class attributes were then optimized to build a web app using streamlit that recognizes the players in real time  and deployed on Heroku <br>(https://recognize-player.herokuapp.com/)
 
 The app achieves high probabilty in recognizing the aforementioned players in real time.<br>
 
