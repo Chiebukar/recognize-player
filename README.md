@@ -1,5 +1,6 @@
 # recognize-player
-![Capture](https://user-images.githubusercontent.com/54807024/123533783-8f7cbb00-d6ab-11eb-98aa-c3c8f07657d8.JPG)<br>
+![Capture](https://user-images.githubusercontent.com/54807024/123533783-8f7cbb00-d6ab-11eb-98aa-c3c8f07657d8.JPG)
+![Capture2](https://user-images.githubusercontent.com/54807024/123533840-1af64c00-d6ac-11eb-8cdb-37b776cf1f9d.JPG)<br>
 The recognize-player project is an end to end machine learning test project to facially recognize the following players: <br>
 Cristiano Ronaldo, Lionel Messi, Son Heung Min, Sadio Mane, Neymar Jr and Mohammed Salah.
 
