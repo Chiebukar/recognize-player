@@ -14,7 +14,7 @@ The saved model and class attributes were then used to build a web app using str
 
 The app achieves high probabilty in recognizing the aforementioned players in real time.<br>
 
-![Capture3](https://user-images.githubusercontent.com/54807024/123533966-da4b0280-d6ac-11eb-922a-07a692f1dd6d.JPG)
+![Capture5](https://user-images.githubusercontent.com/54807024/123534065-9d334000-d6ad-11eb-996d-c066b49bc36c.JPG)
 ![Capture4](https://user-images.githubusercontent.com/54807024/123534016-331a9b00-d6ad-11eb-811c-bc35dbade54b.JPG)
 
 
